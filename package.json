@@ -512,9 +512,9 @@
     },
     {
       "author": "frist",
-      "hash": "QmbWpD2QmLEmmoXhYpnc2E4g3jWB5TawSZmYavJopcRk44",
+      "hash": "QmWLWmRVSiagqP15jczsGME1qpob6HDbtbHAY2he9W5iUo",
       "name": "opentracing-go",
-      "version": "0.0.0"
+      "version": "0.0.3"
     }
   ],
   "gxVersion": "0.10.0",
